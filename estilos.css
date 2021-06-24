@@ -1,0 +1,79 @@
+#curriculo {
+    text-align: center;
+    width: auto; height: 200px; margin-top: -21px; margin-left: -10px; margin-right: -20px; box-sizing:content-box ;
+    background-color: #2d3939;
+    color: white;
+    line-height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#tdiv {
+    text-decoration: none;
+}
+#barralateral {
+    width: 350px;  height: auto; margin-left: -10px; box-sizing: content-box;
+    background-color: #ececec;
+}
+img.tac {
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+ }
+#deco {
+    list-style: none;
+    line-height: 30px;
+}
+#corpo {
+    background-color: #ffffff;
+    width: auto; height: 820px; margin-top: -848px; box-sizing: content-box;
+    margin-left: 340px;
+    text-align: left;
+}
+#rodapé {
+    background-color: #2d3939;
+    width: auto; height: 20px; margin-top: -22px; margin-bottom: -50px; margin-left: -10px; margin-right: -20px; box-sizing: content-box;
+    text-align: center;
+}
+#sobre {
+    line-height: 80px;
+    text-align: left;
+    text-decoration: underline;
+    margin-left: 50px;
+}
+#xp   {
+    line-height: 80px;
+    text-align: left;
+    text-decoration: underline;
+    margin-left: 50px;
+}
+#forma {
+    line-height: 80px;
+    text-align: left;
+    text-decoration: underline;
+    margin-left: 50px;
+}
+#tecpref {
+    line-height: 80px;
+    text-align: left;
+    text-decoration: underline;
+    margin-left: 50px;
+}
+.sobre  {
+    margin-left: 50px;
+    list-style: none;
+}
+#hab {
+    margin-left: 94px;
+}
+.tecs {
+    margin-left: 50px;
+}
+.xp {
+    text-decoration: none;
+}
+.par  {
+    margin-left: 90px;
+    list-style: none;
+}
